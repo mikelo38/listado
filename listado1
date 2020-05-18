@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1,Media 4
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,Panama City (Florida)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8  Panama City (Florida)
+#EXTINF:-1,Free Speach TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,TV Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,HBTV Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,TeleRed  CR
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
